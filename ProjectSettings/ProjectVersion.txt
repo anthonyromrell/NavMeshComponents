@@ -1,1 +1,1 @@
-m_EditorVersion: 5.5.0xNavMesh
+m_EditorVersion: 2018.1.0f2
